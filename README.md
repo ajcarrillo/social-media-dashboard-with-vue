@@ -3,6 +3,8 @@
 Esta es una versión del proyecto que [@LeonidasEsteban](https://github.com/LeonidasEsteban) hizo con react, solo a 
 manera de ejercicio. Todos los créditos a [@LeonidasEsteban](https://github.com/LeonidasEsteban). [Repo original](https://github.com/LeonidasEsteban/react-js-live-code-course)
 
+- Demo: https://ajcarrillo.github.io/social-media-dashboard-with-vue/
+
 ## Project setup
 ```
 yarn install
