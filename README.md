@@ -1,7 +1,7 @@
 # social-media-dashboard-with-vue
 
 Esta es una versión del proyecto que [@LeonidasEsteban](https://github.com/LeonidasEsteban) hizo con react, solo a 
-manera de ejercicio. Todos los créditos a [@LeonidasEsteban](https://github.com/LeonidasEsteban)
+manera de ejercicio. Todos los créditos a [@LeonidasEsteban](https://github.com/LeonidasEsteban). [Repo original](https://github.com/LeonidasEsteban/react-js-live-code-course)
 
 ## Project setup
 ```
